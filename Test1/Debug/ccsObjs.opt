@@ -1,0 +1,6 @@
+"./ARM_Final_Project_Test1.obj"
+"./NVIC.obj"
+"./SysTick.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
